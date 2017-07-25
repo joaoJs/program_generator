@@ -41,3 +41,20 @@ li {
   text-align: right;
   margin-right: 50px;
 }
+
+#myInfo {
+  margin-top: 50px;
+  border-top: solid 1px rgba(255,255,255,.2);
+  text-align: center;
+  color: rgba(255,255,255,.5);
+}
+
+#foot {
+  margin-top: 10px;
+}
+
+#git {
+  margin-top: 2px;
+  margin-bottom: 10px;
+  text-align: center;
+}
